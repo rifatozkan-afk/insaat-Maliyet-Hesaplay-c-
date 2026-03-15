@@ -1,0 +1,5 @@
+{
+  "name": "İnşaat Maliyet Hesaplayıcı",
+  "description": "İnşaat şirketleri için metrekare bazlı detaylı ev maliyeti hesaplama ve müşteri teklif sunum uygulaması.",
+  "requestFramePermissions": []
+}
